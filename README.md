@@ -56,5 +56,15 @@ Go to the **"ABAV Story"** worksheet (last sheet), which explains:
 - **Alcohol consumption**: Among the ~21,000 individuals examined, 38% were drinkers and 62% were non-drinkers, possibly suggesting that alcohol consumption does not strongly contribute to heart attack risk, though this finding should be interpreted with caution.
 
 
+## Insights
+- **Insight 1: Gender differences in risk factors**
+Among females with heart attack, 66% also had arthritis, which was the highest among all risk factors in the dashboard. This suggests a possible association between arthritis and heart attack female in this dataset.
+
+Among males with heart attack, 63% were current or former smokers, which was also the highest among all risk factors in the dashboard. This suggests smoking may be the main contributing risk factor for heart attack in males.
+
+- **Insight 2: Smoking increases co-occurring risk factors**
+Compared to non-smokers, individuals with heart attack who smoked showed higher rates of angina and arthritis. Smokers also reported more days of poor mental health and poor physical health on average. This suggests that smoking not only contributes to heart attack risk but also increases the likelihood of developing other related conditions.
+
+
 
 
