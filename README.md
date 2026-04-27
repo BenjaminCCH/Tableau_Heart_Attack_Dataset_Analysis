@@ -2,16 +2,16 @@
 
 ## Overview
 Understanding the current trends of heart attacks in the dataset and analysing their relationship with demographic factors, lifestyle choices, and medical history using visualisations in Tableau.
-<br>
+
 
 ## Tools
 - Tableau
-<br>
+
   
 ## Data Source
 Indicators of Heart Disease (2022 UPDATE) from Kaggle  
 Retrieved from: https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease/data
-<br>
+
 
 ## Steps to Run the Project
 ### 1. Download Dataset
@@ -34,7 +34,7 @@ Go to the **"ABAV Story"** worksheet (last sheet), which explains:
 - Dashboard insights  
 
 > **Note:** A full video presentation is also available in the `video` folder for a more detailed explanation.
-<br>
+
 
 ## Conclusion
 
