@@ -11,6 +11,7 @@ Understanding the current trends of heart attacks in the dataset and analysing t
 ## Data Source
 Indicators of Heart Disease (2022 UPDATE) from Kaggle  
 Retrieved from: https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease/data
+<br>
 
 ## Steps to Run the Project
 ### 1. Download Dataset
@@ -33,7 +34,7 @@ Go to the **"ABAV Story"** worksheet (last sheet), which explains:
 - Dashboard insights  
 
 > **Note:** A full video presentation is also available in the `video` folder for a more detailed explanation.
-
+<br>
 
 ## Conclusion
 
