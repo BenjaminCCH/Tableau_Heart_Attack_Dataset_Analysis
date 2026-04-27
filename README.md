@@ -2,9 +2,11 @@
 
 ## Overview
 Understanding the current trends of heart attacks in the dataset and analysing their relationship with demographic factors, lifestyle choices, and medical history using visualisations in Tableau.
+<br>
 
 ## Tools
 - Tableau
+<br>
   
 ## Data Source
 Indicators of Heart Disease (2022 UPDATE) from Kaggle  
