@@ -14,18 +14,18 @@ Retrieved from: https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicat
 
 
 ## Steps to Run the Project
-### 1. Download Dataset
+**1. Download Dataset**
 Download the file `BRFSS 2022 Indicators of Heart Disease Dataset.csv` from the `datasets` folder.
 
-### 2. Open Tableau Dashboard
+**2. Open Tableau Dashboard**
 Download the file `Tableau Dashboard.twbx` from the `scripts` folder and open it using Tableau Desktop.  
 
 > **Note:** A screenshot of the dashboard is also available in the `scripts` folder for quick review.
 
-### 3. Explore the Dashboard
+**3. Explore the Dashboard**
 In Tableau, navigate to the **"ABAV Dashboard"** worksheet (second last sheet) to interact with the visualizations.
 
-### 4. Understand the Project
+**4. Understand the Project**
 Go to the **"ABAV Story"** worksheet (last sheet), which explains:
 - Problem statement  
 - Aim and objectives  
